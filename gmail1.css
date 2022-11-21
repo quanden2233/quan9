@@ -1,0 +1,11 @@
+.xkfVF {
+    padding: 48px 40px 36px;
+}
+.xkfVF {
+    -webkit-box-flex: 1;
+    box-flex: 1;
+    -webkit-flex-grow: 1;
+    flex-grow: 1;
+    overflow: hidden;
+    padding: 24px 24px 36px;
+}
